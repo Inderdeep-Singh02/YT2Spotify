@@ -3,7 +3,7 @@
 YT2Spotify is a JavaScript script designed to scrape a YouTube playlist and save it into a Spotify playlist. It utilizes the YouTube Data API and the Spotify Web API to achieve this functionality.
 
 ## Install Dependencies
-cd YT2Spotify
+cd YT2Spotify\
 npm i
 
 
